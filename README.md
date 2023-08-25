@@ -1,5 +1,5 @@
 # curated-infosec
-curated list of infosec links &amp; example content from there
+curated list of free (or free tier available) infosec sites, & example content from there
 -
 gettenantpartitionweb.azurewebsites.net
 ```
@@ -90,17 +90,9 @@ Minimal. Baseline criteria for secure products.
 Practical. Specifies checks applicable even to small companies.
 Modern. Updated annually.
 ```
-invisiblethingslab.com
-```
-Invisible Things Lab brings the security of Qubes OS to the enterprise with cutting-edge research in virtualization, kernel, and system-level security.
-```
 securemessagingapps.com
 ```
 Secure Messaging Apps Comparison
-```
-dehashed.com
-```
-DeHashed provides free deep-web scans and protection against credential leaks. A modern personal asset search engine created for security analysts, journalists, security companies, and everyday people to help secure accounts and provide insight on compromised assets. Free breach alerts & breach notifications.
 ```
 fullhunt.io
 ```
@@ -111,19 +103,10 @@ securitytxt.org
 security.txt
 A proposed standard which allows websites to define security policies.
 ```
-hiddenlayer.com
-```
-Prevent attacks against your ML with HiddenLayer
-```
 sso.tax
 ```
 The SSO Wall of Shame
 A list of vendors that treat single sign-on as a luxury feature, not a core security requirement.
-```
-tresorit.com
-```
-Secure your business with encrypted cloud collaboration
-Tresorit offers ultra-secure encryption for cloud storage, file sharing, and e‑signature within your organization and with external partners.
 ```
 ed448.no
 ```
@@ -139,4 +122,82 @@ pgptool.org
 ```
 PGP Tool
 A simple and secure online client-side PGP Key Generator, Encryption and Decryption tool. Generate your PGP Key pairs, encrypt or decrypt messages easily with a few clicks.
+```
+crackstation.net
+```
+Free Password Hash Cracker
+Enter up to 20 non-salted hashes, one per line:
+32ca9fc1a0f5b6330e3f4c8c1bbecde9bedb9573
+Supports: LM, NTLM, md2, md4, md5, md5(md5_hex), md5-half, sha1, sha224, sha256, sha384, sha512, ripeMD160, whirlpool, MySQL 4.1+ (sha1(sha1_bin)), QubesV3.1BackupDefaults
+Hash	Type	Result
+32ca9fc1a0f5b6330e3f4c8c1bbecde9bedb9573	sha1	Password1!
+Color Codes: Green: Exact match, Yellow: Partial match, Red: Not found.
+```
+slsa.dev
+```
+Safeguarding artifact integrity across any software supply chain
+Supply-chain Levels for Software Artifacts, or SLSA ("salsa").
+It’s a security framework, a checklist of standards and controls to prevent tampering, improve integrity, and secure packages and infrastructure. It’s how you get from "safe enough" to being as resilient as possible, at any link in the chain.
+```
+findsecuritycontacts.com
+```
+What is a security contact?
+A security contact is a way for websites or services to sign post where and how security researchers can get in contact. It also typically describes whether there is any vulnerability disclosure policy or bug bounty.
+There are two methods to set security contacts, with a security.txt file served on a known path and with DNS TXT records.
+findsecuritycontacts.com scans the top 500 sites daily for their security.txt file or DNS records.
+You can also query any website to see if there is a security.txt file (RFC 9116) or DNS records and whether they appear to be formatted correctly.
+You can find more about the security.txt file at securitytxt.org or by looking up RFC 9116; and about DNS security records and the status on dnssecuritytxt.org
+```
+dnssecuritytxt.org
+```
+DNS Security TXT
+A standard allowing organizations to nominate security contact points and policies via DNS TXT records.
+This proposal was first made public on March 25, 2021 and is is currently a draft. We welcome comments and feedback! To make suggestions please submit a PR via Github or submit a ticket. Thanks for your interest!
+Find us on Twitter: https://twitter.com/dnssecuritytxt
+```
+breachdirectory.org
+```
+Maintenance Complete - visit deletemydata for removal
+BY ROHAN PATRA
+CHECK IF YOUR INFORMATION WAS EXPOSED IN A DATA BREACH
+ELON@TESLA.COM
+Protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Show 5 entries
+Search:
+CENSORED PASSWORD	SHA-1 HASH
+g?3@***********	e3b5b2c8ec279492f2fc347c00dec294efd91f52
+/RK2***********	aab763efd11eaa9dc986c48f09a002742b6a2b00
+4R6F***********	57a01a05a9724f518ac42391a4a4779aedd81cc6
+7555**	a65e955177bbc882c57ad93f4f3480b5487f34f5
+5UXr***********	f87302519c6a91b56054328b9cfaa9ca73cd1cc9
+Showing 1 to 5 of 6 entries
+```
+dnsviz.net
+```
+DNSViz is a tool for visualizing the status of a DNS zone. It was designed as a resource for understanding and troubleshooting deployment of the DNS Security Extensions (DNSSEC). It provides a visual analysis of the DNSSEC authentication chain for a domain name and its resolution path in the DNS namespace, and it lists configuration errors detected by the tool. Your feedback is appreciated.
+ed448.no
+2023-07-29
+Select a date 
+Updated: 2023-07-29 21:51:03 UTC (26 days ago) Update now
+« Previous analysis | Next analysis »
+Tweet
+DNSSEC Responses Servers Analyze
+DNSSEC options (show)
+Notices
+DNSSEC Authentication Chain
+RRset statusRRset status
+Secure (7)
+DNSKEY/DS/NSEC statusDNSKEY/DS/NSEC status
+Secure (8)
+Delegation statusDelegation status
+Secure (2)
+NoticesNotices
+Errors (1)
+DNSKEY legend
+Full legend
+SEP bit set	SEP bit set
+Revoke bit set	Revoke bit set
+Trust anchor	Trust anchor
+See also
+DNSSEC Debugger by Verisign Labs.
 ```
