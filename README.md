@@ -217,3 +217,37 @@ Hint: It's more convenient to use keys.openpgp.org from your OpenPGP software.
 The keys.openpgp.org server is a public service for the distribution and discovery of OpenPGP-compatible keys, commonly referred to as a "keyserver".
 For instructions, see our usage guide.
 ```
+qr-code-generator.com
+```
+CREATE YOUR QR CODE FOR FREE
+```
+nordpass.com/secure-password
+```
+How secure is my password?
+Take a moment to check if your passwords are easy pickings for bad actors.
+••••••••••
+Password strength:
+WEAK
+Time it takes to crack your password:2 seconds
+Password composition
+Make sure that your password is long enough and contains various types of characters.
+At least 12 characters
+Lowercase
+Uppercase
+Symbols (?#@…)
+Numbers
+Has this password been previously exposed in data breaches?
+This password has been exposed 8,902 times.
+powered by haveibeenpwned.com
+```
+uic.edu/apps/strong-password
+```
+Password strength test
+This strength tester runs on your local machine and does not send your password over the network.
+Password
+••••••••••
+Hide password
+Complexity
+Strong
+Score
+```
