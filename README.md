@@ -209,3 +209,11 @@ Learn which products will help you get started
 Questions about Zero Trust?
 Email info@zerotrustroadmap.org
 ```
+keys.openpgp.org
+```
+We found an entry for support@keys.openpgp.org
+https://keys.openpgp.org/vks/v1/by-fingerprint/864C145731DD963466CC7571A2604867523C7ED8
+Hint: It's more convenient to use keys.openpgp.org from your OpenPGP software.
+The keys.openpgp.org server is a public service for the distribution and discovery of OpenPGP-compatible keys, commonly referred to as a "keyserver".
+For instructions, see our usage guide.
+```
