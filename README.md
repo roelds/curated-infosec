@@ -118,7 +118,7 @@ jitsi.org
 ```
 More secure, more flexible, and completely free video conferencing
 ```
-pgptool.org
+pgptool.org (or must use gpg to gen 25519 SC E A with comment)
 ```
 PGP Tool
 A simple and secure online client-side PGP Key Generator, Encryption and Decryption tool. Generate your PGP Key pairs, encrypt or decrypt messages easily with a few clicks.
@@ -217,7 +217,7 @@ Hint: It's more convenient to use keys.openpgp.org from your OpenPGP software.
 The keys.openpgp.org server is a public service for the distribution and discovery of OpenPGP-compatible keys, commonly referred to as a "keyserver".
 For instructions, see our usage guide.
 ```
-qr-code-generator.com
+qr-code-generator.com (no signup, DL as jpg)
 ```
 CREATE YOUR QR CODE FOR FREE
 ```
@@ -250,4 +250,13 @@ Hide password
 Complexity
 Strong
 Score
+```
+passwordsgenerator.net/plus
+```
+Password Generator PlusBeta
+Password Length:33
+Include Numbers:( e.g. 123456 )Include Lowercase Characters:( e.g. abcdefgh )Include Uppercase Characters:( e.g. ABCDEFGH )Begin With A Letter:( don't begin with a number or symbol )Include Symbols: 
+!";#$%&'()*+,-./:;<=>?@[]^_`{|}~
+No Similar Characters:( don't use characters like i, l, 1, L, o, 0, O, etc. )No Duplicate Characters:( don't use the same character more than once )No Sequential Characters:( don't use sequential characters, e.g. abc, 789 )Auto Generate On The First Call:( generate passwords automatically when you open this page )Quantity:1
+Save My Preference:( save all the settings above in cookies )
 ```
