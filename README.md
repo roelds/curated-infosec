@@ -260,3 +260,31 @@ Include Numbers:( e.g. 123456 )Include Lowercase Characters:( e.g. abcdefgh )Inc
 No Similar Characters:( don't use characters like i, l, 1, L, o, 0, O, etc. )No Duplicate Characters:( don't use the same character more than once )No Sequential Characters:( don't use sequential characters, e.g. abc, 789 )Auto Generate On The First Call:( generate passwords automatically when you open this page )Quantity:1
 Save My Preference:( save all the settings above in cookies )
 ```
+securityeducationcompanion.org
+```
+SECURITY EDUCATION COMPANION
+A free resource for digital security educators
+SECURITY EDUCATION 101
+LESSONS
+TEACHING MATERIALS
+Welcome to the Security Education Companion!
+SEC is a resource for people teaching digital security to their friends and neighbors. If you’d like to help your community learn about digital security but aren’t sure where to start, these articles, lesson plans, and teaching materials are for you!
+```
+coveryourtracks.eff.org
+```
+See how trackers view your browser
+Learn About
+Test your browser to see how well you are protected from tracking and fingerprinting:
+TEST YOUR BROWSER
+Test with a real tracking company ?
+How does tracking technology follow your trail around the web, even if you’ve taken protective measures? Cover Your Tracks shows you how trackers see your browser. It provides you with an overview of your browser’s most unique and identifying characteristics.
+Only anonymous data will be collected through this site.
+Want to learn more about tracking? Read how it works with our guide:
+LEARN MORE ABOUT FINGERPRINTING
+```
+lddgo.net/en/encrypt/crc
+```
+CRC Calculation Online
+TAG back-end hardware
+Input Content
+```
