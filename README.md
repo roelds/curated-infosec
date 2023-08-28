@@ -288,3 +288,15 @@ CRC Calculation Online
 TAG back-end hardware
 Input Content
 ```
+security.lfx.linuxfoundation.org
+```
+Security Leaderboard
+13,384
+Vulnerabilities Detected
+5,166
+Recommended Fixes
+7,800
+Unique Vulnerabilities Fixed out of 93,772
+2,197
+Repositories Successfully Scanned out of 3,666
+```
