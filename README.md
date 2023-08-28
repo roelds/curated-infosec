@@ -300,3 +300,20 @@ Unique Vulnerabilities Fixed out of 93,772
 2,197
 Repositories Successfully Scanned out of 3,666
 ```
+
+Temp Services
+--
+Temp Email:
+temp-mail.org
+```
+Your Temporary Email Address
+autogen@autogen.com
+Forget about spam, advertising mailings, hacking and attacking robots. Keep your real mailbox clean and secure. Temp Mail provides temporary, secure, anonymous, free, disposable email address.
+```
+Temp Virtual Shared SMS Number: (most apps deny)
+smstome.com/country/usa
+```
+Receive SMS Online In USA
+The phone numbers below are free for personal use and are sorted by date of when they were acquired. The value in parentheses indicates how many messages have been received since the number was posted on our website. Please choose an area code or region that best fits your use case to hand over to the service provider asking for phone verification. Keep in mind these numbers are temporary and will be removed after about a month of time.
+```
+
