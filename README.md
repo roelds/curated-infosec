@@ -8,6 +8,18 @@ Tenant ID	69c613d2-b051-4234-8ed1-fd530b70d5d3
 Azure AD Instance	Azure AD Global: North America
 Tenant Scope	GCC
 ```
+downloads.iqual.co.uk/Microsoft
+```
+[To Parent Directory]
+       <dir> Dell OEM
+       <dir> dotNET
+   616366080 NRMLFPP_EN1.ISO
+       <dir> Office
+       <dir> Server
+       <dir> SQL
+       <dir> Teams
+       <dir> Windows
+```
 files.rg-adguard.net/category
 ```
 Applications
