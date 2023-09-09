@@ -221,14 +221,6 @@ Learn which products will help you get started
 Questions about Zero Trust?
 Email info@zerotrustroadmap.org
 ```
-keys.openpgp.org
-```
-We found an entry for support@keys.openpgp.org
-https://keys.openpgp.org/vks/v1/by-fingerprint/864C145731DD963466CC7571A2604867523C7ED8
-Hint: It's more convenient to use keys.openpgp.org from your OpenPGP software.
-The keys.openpgp.org server is a public service for the distribution and discovery of OpenPGP-compatible keys, commonly referred to as a "keyserver".
-For instructions, see our usage guide.
-```
 qr-code-generator.com (no signup, DL as jpg)
 ```
 CREATE YOUR QR CODE FOR FREE
@@ -294,12 +286,6 @@ Only anonymous data will be collected through this site.
 Want to learn more about tracking? Read how it works with our guide:
 LEARN MORE ABOUT FINGERPRINTING
 ```
-lddgo.net/en/encrypt/crc
-```
-CRC Calculation Online
-TAG back-end hardware
-Input Content
-```
 security.lfx.linuxfoundation.org
 ```
 Security Leaderboard
@@ -311,6 +297,23 @@ Recommended Fixes
 Unique Vulnerabilities Fixed out of 93,772
 2,197
 Repositories Successfully Scanned out of 3,666
+```
+
+Hash CheckSums
+--
+lddgo.net/en/encrypt/crc
+```
+CRC Calculation Online
+TAG back-end hardware
+Input Content
+```
+toolkitbay.com/tkb/tool/BLAKE3
+```
+BLAKE3 Hash
+Generate BLAKE3 (successor of BLAKE2) Hash / Checksum from your text or file.
+Text Input
+File Input
+32 Chars Key (Optional)
 ```
 
 Temp Services
@@ -329,3 +332,23 @@ Receive SMS Online In USA
 The phone numbers below are free for personal use and are sorted by date of when they were acquired. The value in parentheses indicates how many messages have been received since the number was posted on our website. Please choose an area code or region that best fits your use case to hand over to the service provider asking for phone verification. Keep in mind these numbers are temporary and will be removed after about a month of time.
 ```
 
+GPG KeyServers
+--
+keys.openpgp.org
+```
+We found an entry for support@keys.openpgp.org
+https://keys.openpgp.org/vks/v1/by-fingerprint/864C145731DD963466CC7571A2604867523C7ED8
+Hint: It's more convenient to use keys.openpgp.org from your OpenPGP software.
+The keys.openpgp.org server is a public service for the distribution and discovery of OpenPGP-compatible keys, commonly referred to as a "keyserver".
+For instructions, see our usage guide.
+```
+pgp.surf.nl
+```
+Search results for '0x1A5D6C4C7DB87C81'
+Type bits/keyID            cr. time   exp time   key expir
+pub rsa4096/d2eb44626fddc30b513d5bb71a5d6c4c7db87c81 2009-09-15T23:54:29Z
+uid UEC Image Automatic Signing Key <cdimage@ubuntu.com>
+sig  sig  1a5d6c4c7db87c81 2009-09-15T23:58:29Z ____________________ ____________________ [selfsig]
+sig  sig  5759f35001aa4a64 2009-09-16T00:11:19Z ____________________ ____________________ 5759f35001aa4a64
+sig  sig  28deae7f29982e5a 2009-09-16T00:11:31Z ____________________ ____________________ 28deae7f29982e5a
+```
