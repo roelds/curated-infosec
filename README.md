@@ -298,6 +298,16 @@ Unique Vulnerabilities Fixed out of 93,772
 2,197
 Repositories Successfully Scanned out of 3,666
 ```
+cryptii.com/pipes/ascii85-encoding (base85 more efficient than base64)
+```
+Ascii85 / base85: Encode, decode and translate text online
+Ascii85, also called Base85, is a form of binary-to-text encoding used to communicate arbitrary binary data over channels that were designed to carry only English language human-readable text.
+```
+freetsa.org
+```
+Time Stamp Authority
+freeTSA.org provides a free Time Stamp Authority. Adding a trusted timestamp to code or to an electronic signature provides a digital seal of data integrity and a trusted date and time of when the transaction took place.
+```
 
 Hash CheckSums
 --
